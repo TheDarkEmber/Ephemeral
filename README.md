@@ -4,4 +4,5 @@ Ephemeral is a browser engine/webview written entirely in TypeScript, HTML, and 
 ## Features
 Currently, Ephemeral supports:
 * Supports ES2020+
-* 
+* Can be embedded on any website
+* More
